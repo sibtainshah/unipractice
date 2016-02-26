@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 file7 
+=======
+This is file7 
+>>>>>>> a5f0664db582fdc2c80340bd0e64af7bd0d74388
